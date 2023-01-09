@@ -1,0 +1,24 @@
+.item{
+    text-align: center;
+    vertical-align: middle;
+}
+i {
+    background-color: rgb(248, 248, 248);
+    padding: 25px;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+}
+hr {
+    background-color: gray;
+    width: 45%;
+    height: 0.25px;
+    border: none;
+    margin: auto;
+    margin-bottom: 10px;
+}
+h2 {
+    color: rgb(138, 136, 145);
+    font-weight: 200;
+}
